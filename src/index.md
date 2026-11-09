@@ -31,7 +31,7 @@ hero:
 
     - theme: sponsor
       text: 赞助我们
-      link: https://hefung.github.io/donate
+      link: https://hefung.github.io/sponsor.html
 
     - theme: alt
       text: AI 占卜
