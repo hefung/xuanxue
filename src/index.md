@@ -71,9 +71,9 @@ features:
     link: 相关经典/道德经
     linkText: 查看
 
-  - title: VIPTV - 工作室
-    link: https://www.viptv.work
+  - title: HeFung - 工作室
+    link: https://hefung.github.io/
     linkText: 返回主站
 ---
-<Home />
+
 <confetti />
